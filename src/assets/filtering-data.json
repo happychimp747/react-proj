@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "value": "tropical",
+    "name": "Tropical paradise"
+  },
+  {
+    "id": 1,
+    "value": "outdoors",
+    "name": "Outdoor locations"
+  },
+  {
+    "id": 2,
+    "value": "historical",
+    "name": "Historical center"
+  },
+  {
+    "id": 3,
+    "value": "metropolis",
+    "name": "Metropolis"
+  }
+]

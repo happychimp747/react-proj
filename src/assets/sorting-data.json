@@ -1,0 +1,17 @@
+[
+  {
+    "value": "id",
+    "name": "Recommended",
+    "ordering": "increasing"
+  },
+  {
+    "value": "length",
+    "name": "Longest visa duration first",
+    "ordering": "decreasing"
+  },
+  {
+    "value": "fee",
+    "name": "Lowest visa fee first",
+    "ordering": "increasing"
+  }
+]

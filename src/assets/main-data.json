@@ -1,0 +1,163 @@
+[
+  {
+    "id": 0,
+    "name": "Antigua & Barbuda",
+    "description": "Tropical islands with more than 300 beaches",
+    "salary": 4100,
+    "length": 24,
+    "fee": 1500,
+    "image": "images/antigua.jpeg",
+    "categories": [
+      "tropical"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Barbados",
+    "description": "Tropical islands known for Rihanna and criketing legend Sir Garfield Sobers",
+    "salary": 4100,
+    "length": 12,
+    "fee": 2000,
+    "image": "images/barbados.jpeg",
+    "categories": [
+      "tropical"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Croatia",
+    "description": "Historical country with historical towns along Adriatic sea coastline.",
+    "salary": 2500,
+    "length": 12,
+    "fee": 2000,
+    "image": "images/croatia.jpeg",
+    "categories": [
+      "historical"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dubai",
+    "description": "Historical country with historical towns along Adriatic sea coastline.",
+    "salary": 5000,
+    "length": 12,
+    "fee": 287,
+    "image": "images/dubai.jpeg",
+    "link": "https://www.visitdubai.com/en/invest-in-dubai/live-and-work/visas-and-entry/work-remotely-from-dubai",
+    "categories": [
+      "metropolis"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Estonia",
+    "description": "Historical country with historical towns along Adriatic sea coastline.",
+    "salary": 3504,
+    "length": 12,
+    "fee": 100,
+    "image": "images/estonia.jpeg",
+    "link": "https://vm.ee/en/visa-application-forms",
+    "categories": [
+      "historical"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Germany",
+    "description": "Historical country with historical towns along Adriatic sea coastline.",
+    "salary": 3000,
+    "length": 12,
+    "fee": 100,
+    "image": "images/germany.jpeg",
+    "link": "https://www.berlin.de/einwanderung/",
+    "categories": [
+      "historical",
+      "outdoors",
+      "metropolis"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Iceland",
+    "description": "Historical country with historical towns along Adriatic sea coastline.",
+    "salary": 7800,
+    "length": 6,
+    "fee": 100,
+    "image": "images/iceland.jpeg",
+    "link": "https://www.berlin.de/einwanderung/",
+    "categories": [
+      "outdoors"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Malta",
+    "description": "Historical country with historical towns along Adriatic sea coastline.",
+    "salary": 2700,
+    "length": 12,
+    "fee": 100,
+    "image": "images/malta.jpeg",
+    "link": "https://nomad.residencymalta.gov.mt/",
+    "categories": [
+      "historical",
+      "outdoors"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Mauritius",
+    "description": "Historical country with historical towns along Adriatic sea coastline.",
+    "salary": 0,
+    "length": 12,
+    "fee": 0,
+    "image": "images/mauritius.jpeg",
+    "link": "https://mauritiusnow.com/mauritius-visa/",
+    "categories": [
+      "outdoors",
+      "tropical"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Mexico",
+    "description": "Historical country with historical towns along Adriatic sea coastline.",
+    "salary": 1620,
+    "length": 12,
+    "fee": 300,
+    "image": "images/mexico.jpeg",
+    "link": "https://consulmex.sre.gob.mx/leamington/index.php/non-mexicans/visas/115-temporary-resident-visa",
+    "categories": [
+      "historical",
+      "outdoors",
+      "metropolis",
+      "tropical"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Norway",
+    "description": "Historical country with historical towns along Adriatic sea coastline.",
+    "salary": 3000,
+    "length": 24,
+    "fee": 600,
+    "image": "images/norway.jpeg",
+    "link": "https://www.udi.no/en/checklists-container/work/checklist--for-self-employed-persons-with-a-company-abroad-/",
+    "categories": [
+      "outdoors",
+      "metropolis"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Portugal",
+    "description": "Historical country with historical towns along Adriatic sea coastline.",
+    "salary": 600,
+    "length": 12,
+    "fee": 90,
+    "image": "images/portugal.jpeg",
+    "link": "https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/residency#fixed-residency-for-retirement-purposes-religious-purposes-or-people-living-out-from-individual-revenues",
+    "categories": [
+      "historical"
+    ]
+  }
+]
