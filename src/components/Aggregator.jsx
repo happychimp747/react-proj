@@ -12,8 +12,8 @@ export function Aggregator({
         }</p>
         <p>Features
             included: {features}</p>
-        <p>Minimum monthly
-            salary: {minSalary}</p>
+        <p>Mnimum monthly
+            salary of the trip: {minSalary}</p>
         <p>Total visa
             cost: {total}</p>
     </div>)
