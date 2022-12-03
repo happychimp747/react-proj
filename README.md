@@ -2,7 +2,7 @@
 
 ### Link to Deployed Website
 
-[The link](https://happychimp747.github.io/react-project/)
+[The link](https://happychimp747.github.io/react-proj/)
 
 ### Goal and Value of the Application
 
